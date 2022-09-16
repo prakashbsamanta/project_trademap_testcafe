@@ -1,0 +1,15 @@
+{
+  "name": "project_trademap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx testcafe"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^2.0.0"
+  }
+}
